@@ -11,7 +11,7 @@
 <br>
 
 <p align="center">
-  <img alt="BeTheHero" src="https://github.com/Alissonpl/simple-crud/blob/master/Captura%20de%20ecr%C3%A3%20de%202020-05-25%2016-46-08.png" width="100%">
+  <img alt="Produto" src="https://github.com/Alissonpl/simple-crud/blob/master/Captura%20de%20ecr%C3%A3%20de%202020-05-25%2016-46-08.png" width="100%">
 </p>
 
 ## :rocket: Tecnologias
